@@ -1,0 +1,9 @@
+.container{
+    border: 1 px solid black; /*we can remove the border as well*/
+    display: flex; /*to put the button wherever we want on the screen*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /*to make the height of the container as big as the screen*/
+
+
+}
